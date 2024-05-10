@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jojo>
+    <stand>
+        <id>	1	</id>
+        <nome>	Gold Experience	</nome>
+        <usuario>	Giorno Giovanna	</usuario>
+        <habilidades>	É capaz de dar vida para qualquer coisa que seja tocada por ele. Isso permite que órgãos sejam curados, objetos inorgânicos sejam reformulados e transformados em criaturas vivas.	</habilidades>
+        <foto>		</foto>
+    </stand>
+     <stand>
+        <id>	2	</id>
+        <nome>	The World	</nome>
+        <usuario>	Dio Brando	</usuario>
+        <habilidades>	 Habilidade de parar o tempo por um total de 9 segundos.	</habilidades>
+        <foto>		</foto>
+    </stand>
+     <stand>
+        <id>	3	</id>
+        <nome>	Tusk	</nome>
+        <usuario>	Johnny Joestar	</usuario>
+        <habilidades>	 O usuário pode usar esse Spin para disparar unhas de forma similar à projéteis em grandes velocidades, fortes o suficiente para destruir rochas sólidas e estruturas similares. Seu poder evolui também e, com isso, surge a habilidade de criar buracos de minhoca espaciais.</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	4	</id>
+        <nome>	 Made In Heaven	</nome>
+        <usuario>	Enrico Pucci	</usuario>
+        <habilidades>	 Capaz de controlar a gravidade, o que lhe permite se mover em velocidades acima do normal.	</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	5	</id>
+        <nome>	Star Platinum	</nome>
+        <usuario>	Jotaro Kujo	</usuario>
+        <habilidades>	 Muita precisão em seus golpes e eles são praticamente indefensáveis para seus adversários. Como se sua força bruta não fosse o suficiente, o Star Platinum também adquiriu a habilidade de parar o tempo por 5 segundos.	</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	6	</id>
+        <nome>	 Dirty Deeds Done Dirt Cheep (D4C) 	</nome>
+        <usuario>	Funny Valentine	</usuario>
+        <habilidades>	  Sua habilidade consiste em conseguir viajar por universos paralelos com sua capacidade dimensional.	</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	7	</id>
+        <nome>	 Weather Report	</nome>
+        <usuario>	Domenico Pucci	</usuario>
+        <habilidades>	 Habilidade de manipular o clima.	</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	8	</id>
+        <nome>	 King Crimson	</nome>
+        <usuario>	Diavolo	</usuario>
+        <habilidades>	 Seu stand tem duas habilidades capazes de encerrar uma luta em pouquíssimos segundos: o Epitaph (que permite que o usuário preveja o futuro) e a capacidade de limpar o tempo (podendo esquivar de todos os ataques de forma imediata). 	</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	9	</id>
+        <nome>	Cream	</nome>
+        <usuario>	Vanilla Ice	</usuario>
+        <habilidades>	 Ele devora a si mesmo e seu usuário mandando-os para uma outra dimensão. Isso faz com que seja gerado um portal que apaga tudo o que toca de forma rápida, deixando seus alvos impotentes contra seus ataques.	</habilidades>
+        <foto>		</foto>
+    </stand>
+    <stand>
+        <id>	10	</id>
+        <nome>	 Notorious B.I.G	</nome>
+        <usuario>	Desconhecido	</usuario>
+        <habilidades>	 Não pode ser destruído, pois com o seu poder regenerativo, ele não pode morrer.	</habilidades>
+        <foto>		</foto>
+    </stand>
+</jojo>
